@@ -2,7 +2,7 @@
 
 > 자세한 내용은 https://github.com/SID12g/life-expectancy-by-income 에서 확인하실 수 있습니다.
 
-- 3329 조성민 -
+- 3329 조성민
 
 ## 1. 문제 설정
 
