@@ -1,6 +1,8 @@
 # 지역별 소득 수준과 기대수명 간의 상관관계 분석
 
-> 3329 조성민
+> 자세한 내용은 https://github.com/SID12g/life-expectancy-by-income 에서 확인하실 수 있습니다.
+
+- 3329 조성민 -
 
 ## 1. 문제 설정
 
